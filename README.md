@@ -1,7 +1,11 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+This repository contains projects I created to improve my Tailwind CSS skills, including project outputs. See the project outputs here.
+ heres is the output of the 
+
+**project-1**
 
 
- heres is the out put of the project 
+
  <img width="1894" height="864" alt="image" src="https://github.com/user-attachments/assets/385a5ff3-8a33-4a84-9a36-9a9b7dc1c98b" />
 
 ## Getting Started
